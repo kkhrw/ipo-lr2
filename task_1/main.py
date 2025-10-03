@@ -6,5 +6,4 @@ var_float-=1
 var_int/var_float
 big_int35/var_float
 var_str = var_str*3+ "Yes"*2
-print(big_int35," ",var_float," ",var_int/var_float
-" ",big_int35/var_float," ",var_str)
+print(big_int35," ",var_float," ",var_str)
